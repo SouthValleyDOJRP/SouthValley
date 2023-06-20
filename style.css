@@ -1,9 +1,58 @@
+<style>
 body {
-  background-color: darkgrey;
+background-color: black;
+}
+
+img[src="ServerLogo.png"] {
+display:block;
+object-fit: scale-down;
+margin: auto;
+}
+
+img[src="NavServerLogo.png"] {
+margin: auto;
+}
+
+button {
+background-color: darkorchid; 
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+color: orange;
+font-size: 16px;
+font-family: Blippo, fantasy;
+}
+
+button:hover {
+background-color: purple;
+}
+
+p2 {
+display:block;
+color: white; 
+text-align: center;
+margin-left: auto;
+}
+
+p3 {
+display:block;
+color: red;
+text-align: center;
 }
 
 h1 {
-  color: white;
-  font-family: verdana;
-  text-align: center;
+color: white;
+font-family: verdana;
+text-align: center;
 }
+
+ul {
+background-color: DarkSlateGray;
+list-style-type: none;
+margin: 0;
+padding: 10px 10px;
+}
+
+</style>
