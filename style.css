@@ -10,7 +10,7 @@ margin: auto;
 }
 
 img[src="NavServerLogo.png"] {
-margin: auto;
+display: block;
 }
 
 button {
