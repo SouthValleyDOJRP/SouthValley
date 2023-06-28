@@ -10,9 +10,7 @@ img {
   animation: rotation 6s infinite linear;
   display: block;
   margin: auto;
-  background-color: black;
-  mix-blend-mode: multiply;
-  filter: contrast(1);
+  background-color: transparent;
 }
 
 @keyframes rotation {
@@ -63,7 +61,7 @@ color: white;
 <br>
 <br>
 <br>
-<img src="img/wrenches.png" class="hide-bg">
+<img src="img/wrenches.png">
 <br>
 <br>
 <br>
