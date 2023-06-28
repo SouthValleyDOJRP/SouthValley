@@ -7,8 +7,19 @@ background-color: black;
 
 img {
   width: 300px;
+  animation: rotation 6s infinite linear;
+  display: block;
   margin: auto;
-  background-color: transparent;
+  block0background-color: black;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
 
 p1 {
