@@ -11,6 +11,7 @@ img {
   animation: rotation 6s infinite linear;
   display: block;
   margin: auto;
+  background-color: black;
 }
 
 @keyframes rotation {
