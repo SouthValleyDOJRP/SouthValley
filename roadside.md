@@ -61,7 +61,7 @@ color: white;
 <br>
 <br>
 <br>
-<img src="img/wrenches.png">
+<img src="img/wrenches.png" class="hide-bg">
 <br>
 <br>
 <br>
