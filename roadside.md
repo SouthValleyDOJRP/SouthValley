@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <style>
 body {
@@ -62,7 +61,7 @@ color: white;
 <br>
 <br>
 <br>
-<img src="img/wrenches.png"></img>
+<img src="img/wrenches.png">
 <br>
 <br>
 <br>
