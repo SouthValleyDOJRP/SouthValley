@@ -13,17 +13,6 @@ img {
   background-color: transparent;
 }
 
-@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-  background-color: transparent;
-}
-
-
 p1 {
 display: block;
 text-align: center;
