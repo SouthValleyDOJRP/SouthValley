@@ -10,7 +10,7 @@ img {
   animation: rotation 6s infinite linear;
   display: block;
   margin: auto;
-  block0background-color: black;
+  block-background-color: black;
 }
 
 @keyframes rotation {
