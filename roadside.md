@@ -39,7 +39,7 @@ color: white;
 }
 </style>
 <body>
-<iframe src="navbar.html" class="navbar" style="border:none;"></iframe>
+<iframe width="560" src="navbar.html" class="navbar" style="border:none;"></iframe>
 
 
 <p1>Calling your local mechanic, they will answer if they are not busy!</p1>
