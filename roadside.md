@@ -51,7 +51,7 @@ color: white;
 <br>
 <br>
 <br>
-<img href="img/1620849-crossed-combination-wrench-vector-icon-outline.png">
+<img href="img/wrenches.png">
 <br>
 <br>
 <br>
