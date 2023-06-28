@@ -11,6 +11,8 @@ img {
   display: block;
   margin: auto;
   background-color: black;
+  mix-blend-mode: multiply;
+  filter: contrast(1);
 }
 
 @keyframes rotation {
