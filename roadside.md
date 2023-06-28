@@ -59,7 +59,7 @@ color: white;
 <br>
 <br>
 <br>
-<img src="Images/Wrenches.png"></img>
+<img src="img/wrenches.png"></img>
 <br>
 <br>
 <br>
