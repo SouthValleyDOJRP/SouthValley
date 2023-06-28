@@ -20,6 +20,7 @@ img {
   to {
     transform: rotate(360deg);
   }
+  background-color: transparent;
 }
 
 
