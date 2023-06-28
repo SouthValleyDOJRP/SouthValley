@@ -8,10 +8,7 @@ background-color: black;
 img {
   width: 300px;
   animation: rotation 6s infinite linear;
-  display: block;
   margin: auto;
-  border-block-style: solid;
-  border-block-color: black;
 }
 
 @keyframes rotation {
