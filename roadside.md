@@ -11,6 +11,7 @@ img {
   margin: auto;
   color: black;
   background-color: black;
+  vertical-align: middle;
 }
 
 @keyframes rotation {
@@ -27,6 +28,7 @@ display: block;
 text-align: center;
 font-size: xx-large;
 color: white;
+vertical-align:top
 }
 
 p2 {
@@ -34,7 +36,7 @@ display: block;
 text-align: center;
 font-size: xx-large;
 color: white;
-
+vertical-align: bottom;
 }
 </style>
 <body>
@@ -43,36 +45,7 @@ color: white;
 
 <p1>Calling your local mechanic, they will answer if they are not busy!</p1>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <img src="img/wrenches.png">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <p2>Please wait, It won't pop up but they are being called!</p2>
 </body>
