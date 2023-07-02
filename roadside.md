@@ -28,6 +28,8 @@ bottom: 0;
 
 <p1>Calling your local mechanic, they will answer if they are not busy!</p1>
 <br>
+<img src="img/wrenches.png"></img>
+<br>
 <p2>Please wait, It won't pop up but they are being called!</p2>
 </body>
 
