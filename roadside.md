@@ -14,8 +14,7 @@ top: 0;
 }
 img {
     display: block;
-    left: 50%;
-    top: 50%;
+    margin: auto;
 }
 
 p2 {
