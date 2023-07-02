@@ -10,8 +10,6 @@ img {
   margin: auto;
   color: black;
   background-color: black;
-  position: absolute;
-  middle: 0;
 }
 
 
@@ -21,7 +19,7 @@ display: block;
 text-align: center;
 font-size: xx-large;
 color: white;
-position: absolute; 
+position: absolute;
 top: 0;
 }
 
