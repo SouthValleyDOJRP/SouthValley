@@ -1,7 +1,7 @@
 <html>
 <style>
 body {
-background-image: src("img/wrenches.png");
+background-color: black;
 }
 
 p1 {
