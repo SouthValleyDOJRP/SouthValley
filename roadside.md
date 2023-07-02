@@ -11,7 +11,8 @@ img {
   margin: auto;
   color: black;
   background-color: black;
-  vertical-align: middle;
+  position: absolute;
+  middle: 0;
 }
 
 @keyframes rotation {
