@@ -6,7 +6,6 @@ background-color: black;
 
 
 img {
-  animation: rotation 6s infinite linear;
   display: block;
   margin: auto;
   color: black;
@@ -15,14 +14,7 @@ img {
   middle: 0;
 }
 
-@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(359deg);
-  }
-}
+
 
 p1 {
 display: block;
