@@ -28,7 +28,8 @@ display: block;
 text-align: center;
 font-size: xx-large;
 color: white;
-vertical-align:top
+position: absolute; 
+top: 0;
 }
 
 p2 {
@@ -36,7 +37,8 @@ display: block;
 text-align: center;
 font-size: xx-large;
 color: white;
-vertical-align: bottom;
+position: absolute;
+bottom: 0;
 }
 </style>
 <body>
