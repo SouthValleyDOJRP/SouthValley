@@ -1,19 +1,8 @@
 <html>
 <style>
 body {
-background-color: black;
+background-image: src("img/wrenches.png");
 }
-
-
-img {
-  display: block;
-  margin: auto;
-  color: black;
-  background-color: black;
-  align: center;
-}
-
-
 
 p1 {
 display: block;
@@ -38,8 +27,6 @@ bottom: 0;
 
 
 <p1>Calling your local mechanic, they will answer if they are not busy!</p1>
-<br>
-<img src="img/wrenches.png">
 <br>
 <p2>Please wait, It won't pop up but they are being called!</p2>
 </body>
