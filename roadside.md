@@ -12,6 +12,11 @@ color: white;
 position: absolute;
 top: 0;
 }
+img {
+    display: block;
+    left: 50%;
+    top: 50%;
+}
 
 p2 {
 display: block;
@@ -28,7 +33,7 @@ bottom: 0;
 
 <p1>Calling your local mechanic, they will answer if they are not busy!</p1>
 <br>
-<img src="img/wrenches.png"></img>
+<img src="img/wrenches.png">
 <br>
 <p2>Please wait, It won't pop up but they are being called!</p2>
 </body>
