@@ -10,6 +10,7 @@ img {
   margin: auto;
   color: black;
   background-color: black;
+  middle: 0;
 }
 
 
